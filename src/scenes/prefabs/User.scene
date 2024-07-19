@@ -1,0 +1,87 @@
+{
+    "id": "33548fea-0f66-451e-a9ab-60332565ba91",
+    "sceneType": "PREFAB",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "compilerOutputLanguage": "TYPE_SCRIPT",
+        "borderWidth": 1144,
+        "borderHeight": 662
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "2bd2d53c-ec83-405a-82b2-b287910ce5ea",
+            "label": "container_1",
+            "x": 460,
+            "y": 409,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "f8b6608a-423e-4df3-a11d-56b77e0aecb5",
+                    "label": "user",
+                    "texture": {
+                        "key": "user"
+                    },
+                    "scaleX": 0.5,
+                    "scaleY": 0.5
+                },
+                {
+                    "type": "Text",
+                    "id": "70c2758f-8bd4-4512-95fa-2d921eb99ff3",
+                    "label": "nickname",
+                    "y": 53,
+                    "originX": 0.48347813165265796,
+                    "originY": 0.42669301585702935,
+                    "text": "User",
+                    "align": "center",
+                    "fontFamily": "Pretendard",
+                    "fontSize": "12px",
+                    "color": "#E3E3E5",
+                    "stroke": "#000"
+                },
+                {
+                    "type": "Text",
+                    "id": "7c713033-df16-49fd-ac00-07a39ed7f914",
+                    "label": "text_1",
+                    "x": -17,
+                    "y": 71,
+                    "originX": 0.5,
+                    "originY": 0.5,
+                    "alpha": 0.6,
+                    "alphaTopLeft": 0.6,
+                    "alphaTopRight": 0.6,
+                    "alphaBottomLeft": 0.6,
+                    "alphaBottomRight": 0.6,
+                    "text": "$",
+                    "align": "center",
+                    "fontFamily": "Pretendard",
+                    "color": "#E3E3E5"
+                },
+                {
+                    "type": "Text",
+                    "id": "952005b8-0e0d-4c53-956c-0369ba2924b6",
+                    "label": "text_2",
+                    "x": 8,
+                    "y": 71,
+                    "originX": 0.5,
+                    "originY": 0.5,
+                    "text": "0.00",
+                    "fontFamily": "Pretendard",
+                    "fontStyle": "bold",
+                    "color": "#E3E3E5"
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

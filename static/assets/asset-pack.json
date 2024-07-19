@@ -2,14 +2,14 @@
     "section1": {
         "files": [
             {
-                "url": "assets/bg.webp",
+                "url": "assets/table.webp",
                 "type": "image",
-                "key": "bg"
+                "key": "table"
             },
             {
-                "url": "assets/chip.webp",
+                "url": "assets/user.webp",
                 "type": "image",
-                "key": "chip"
+                "key": "user"
             }
         ]
     },

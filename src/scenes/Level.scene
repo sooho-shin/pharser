@@ -8,31 +8,76 @@
         "createMethodName": "editorCreate",
         "sceneKey": "Level",
         "compilerOutputLanguage": "TYPE_SCRIPT",
-        "borderWidth": 1280,
-        "borderHeight": 720
+        "borderWidth": 1144,
+        "borderHeight": 662
     },
     "displayList": [
         {
             "type": "Image",
-            "id": "b00a203d-337d-492b-979e-babb9371fa06",
-            "label": "bg",
+            "id": "d5a0ed38-9ebd-483f-ad76-9939baee4741",
+            "label": "image_1",
             "texture": {
-                "key": "bg"
+                "key": "table"
             },
-            "x": 642,
-            "y": 355,
-            "scaleX": 0.652907618981633,
-            "scaleY": 0.5041338715678481
+            "x": 572,
+            "y": 331,
+            "scaleX": 0.5,
+            "scaleY": 0.5
         },
         {
-            "type": "Image",
-            "id": "1ce2d6ba-d00d-4b5e-abb9-d25c08d78a77",
-            "label": "chip",
-            "texture": {
-                "key": "chip"
-            },
-            "x": 287,
-            "y": 355
+            "prefabId": "33548fea-0f66-451e-a9ab-60332565ba91",
+            "id": "b2585644-7f43-4b9b-922a-f06e7b572327",
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "label": "container_1",
+            "x": 183,
+            "y": 387
+        },
+        {
+            "prefabId": "33548fea-0f66-451e-a9ab-60332565ba91",
+            "id": "d3543864-3bc6-4a4d-87a6-8c2878d2bec6",
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "label": "user_1",
+            "x": 268,
+            "y": 136
+        },
+        {
+            "prefabId": "33548fea-0f66-451e-a9ab-60332565ba91",
+            "id": "3f9bdac6-5024-49df-898a-ef9c7fc86097",
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "label": "user_2",
+            "x": 555,
+            "y": 101
+        },
+        {
+            "prefabId": "33548fea-0f66-451e-a9ab-60332565ba91",
+            "id": "0fb4b013-02df-439a-a711-8f0d8a5f6419",
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "label": "user_3",
+            "x": 882,
+            "y": 144
+        },
+        {
+            "prefabId": "33548fea-0f66-451e-a9ab-60332565ba91",
+            "id": "d29cf986-fb3e-4dd0-8590-8726d9a7ed76",
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "label": "user_4",
+            "x": 949,
+            "y": 388
         }
     ],
     "plainObjects": [],

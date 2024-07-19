@@ -21,11 +21,10 @@ class Boot extends Phaser.Scene {
 }
 
 window.addEventListener('load', function () {
-	
 	const game = new Phaser.Game({
-		width: 1280,
-		height: 720,
-		backgroundColor: "#2f2f2f",
+    	width: 1144,    // 원하는 너비
+	    height: 662,    // 원하는 높이
+		backgroundColor: "#13161B",
 		scale: {
 			mode: Phaser.Scale.ScaleModes.FIT,
 			autoCenter: Phaser.Scale.Center.CENTER_BOTH
